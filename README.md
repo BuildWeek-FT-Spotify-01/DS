@@ -2,6 +2,8 @@
 
 We believe that people deserve unaquitted, fair access to any and all musical recommendations. Because of this belief, we created our app, **"Spotify Recommender"**. 
 
+Product Vision Document:
+https://docs.google.com/document/d/1m9od5rn3VZYmwmIIQ6vmAkmwYi_tJN9fRVn2lmwwA-o/edit?usp=sharing
 ## How does it work?
 
 Our application uses a KNN (k-nearest neighbors model), to create our suggestions to our users. Users need only input their favorite song title and the application will return the top 5 songs that have the highest correlation to the input song.
